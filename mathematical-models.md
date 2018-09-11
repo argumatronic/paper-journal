@@ -16,12 +16,17 @@ Philosophy of mathematics has been dormant since around 1931, the end of the act
 
   [^1]: [Definition from the SEP](https://plato.stanford.edu/entries/platonism-mathematics/).
 
-* **Logicism**: Arose with the discovery and formalization of mathematical logic.
+* **Logicism**: "The *strong* version of logicism maintains that all mathematical truths in the chosen branch(es) form a species of logical truth. The *weak* version of logicism, by contrast, maintains only that all the theorems do." Maintains that all objects of mathematical study are *logical* objects and that all mathematics can be derived from a set of logical first principles, entirely within the bounds of logic itself. Arose with the discovery and formalization of mathematical logic.[^2]
 
-* **Formalism**: Arose with the development of axiomatic methods and discovery that proof theory might give consistent proofs for abstract mathematics.
+  [^2]: [Definition from the SEP](https://plato.stanford.edu/entries/logicism/).
 
-* **Intuitionism**: Arose from the emphasis on numbers as the starting point of mathematics and intuition as a basis for topology.
+* **Formalism**: Views math as like a logical, formal game. Thus, math has no tie to any reality outside itself and requires no commitment to any particular ontology.[^3] Arose with the development of axiomatic methods and discovery that proof theory might give consistent proofs for abstract mathematics.
 
+  [^3]: Definition largely made up by me.
+
+* **Intuitionism**: "Intuitionism is based on the idea that mathematics is a creation of the mind. The truth of a mathematical statement can only be conceived via a mental construction that proves it to be true, and the communication between mathematicians only serves as a means to create the same mental process in different minds."[^4] Arose from the emphasis on numbers as the starting point of mathematics and intuition as a basis for topology.
+
+  [^4]: [Definition from the SEP](https://plato.stanford.edu/entries/intuitionism/).
 
 Each of these arose from the dominant aspects of mathematics as it was understood in its time.
 
@@ -69,8 +74,34 @@ He also drags ZF axiomatic set theory for being "largely irrelevant to the pract
 
 # Cantorian Set Theory
 
+ZF and first-order logic do not subsume all of set theory, but formalize only a part of it, and Cantorian set theory emphasizes the "intuitive notion of a set as a collection which is a real object in its own right." So set theory can be studied by other means than ZF or first-order logic, hence it is just another branch of mathematics.
+
+Since we can dismiss set theory as *the* foundation of mathematics, we can assimilate it with the view that math consists of formalized disciplines derived from human activities, and there's a clear analog in human activity for the Cantorian notion of sets.
+
 # Multiple Models for Set Theory
+
+As with Cantorian set theory, so with the rest of mathematics. Mathematics deals with multiple models of the world and is not subsumed by any one grand theory or system of axioms.
+
+For the Platonist, there may be many ways to model sets that are all only approximations of the underlying and pure mathematical reality of Platonic sets.
+
+But this cannot be shown to be true (or false), whether ontologically or epistemologically. "Moreover, such ideal worlds rapidly become too elaborate; they must display not only the sets but all the other separate structures which mathematicians have described or will discover. The real nature of these structures does not lie in their often artificial constrcution from set theory, but in their relation to simple mathematical ideas or to basic human activities."
 
 # Models of Geometry
 
+OK, I took no notes on this section.
+
 # Breadth, Clarity, and Depth
+
+Breadth, clarity, and depth are crucial because of the extent of abstraction in mathematics.
+
+Abstraction may take place in several stages (and I'd argue it usually does) and "interlock" different branches of mathematics, but it is the practice of "formulating essential aspects of some subject matter in terms of suitable axioms." (as a "monoid" takes essential aspects of some common operations and axiomatizes them, becoming then a new thing -- but an abstract thing)
+
+Breadth refers to the number of situations a mathematical abstraction can apply to and to the prevalence and relevance of the abstraction. (monoids are everywhere yo) Clarity has to do with presentation of ideas -- speaking precisely (not intuitively? mm) but also with a "clear ordering of ideas." Depth refers to how a mathematical notion "gets at the nonobvious, more fundamental structures and concepts underlying the problems at issue".
+
+"Mathematics consists in the discovery of successive stages of the formal structures underlying the world and human activities in that world, with emphasis on those structures of broad applicability and those reflecting deeper aspects of the world.
+
+"In detail, mathematical development uses experience and intuitive insights to discover appropriate formal structures, to make deductive analyses of these structures, and to establish formal interconnections between them. In other words, mathematics studies interlocking structures. Because of the depth and of the distance from immediate concerns, mathematical treatments need be not only rigorous but also endowed with conceptual clarity."
+
+Sorry for the extended quote at the end, but he packs a lot in there.
+
+I'm still not entirely sure what his beef with intuitionism is except perhaps intuitionism might deny that there is any connection to real world human activities, I'm not sure?
